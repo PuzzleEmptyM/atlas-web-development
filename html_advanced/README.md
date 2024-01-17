@@ -10,9 +10,6 @@ In this website you will find reviews, demo videos, and an FAQ. <br>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ===========================================
 ## In this project, I covered these topics:
