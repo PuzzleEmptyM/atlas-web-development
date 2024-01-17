@@ -5,7 +5,6 @@
 <br>
 <br>
 This is a plain HTML website for Beome Website 2024, a free website that lets you leave your corporeal body and BECOME WEBSITE! <br>
-
 In this website you will find reviews, demo videos, and an FAQ. <br>
 <br>
 <br>
