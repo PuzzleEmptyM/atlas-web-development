@@ -15,3 +15,13 @@ In this project, I covered these topics:
  - What is an element / tag? <br>
  - What is an attribute? <br>
  - What the purpose of each HTML tag? <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Created by Puzzle Moser January 17, 2024
