@@ -9,8 +9,6 @@ This is a plain HTML website for Beome Website 2024, a free website that lets yo
 In this website you will find reviews, demo videos, and an FAQ. <br>
 <br>
 <br>
-<br>
-
 ===========================================
 ## In this project, I covered these topics:
 ===========================================
