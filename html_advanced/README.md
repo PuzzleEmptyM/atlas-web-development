@@ -8,7 +8,7 @@ This is a plain HTML website for Beome Website 2024, a free website that lets yo
 
 In this website you will find reviews, demo videos, and an FAQ. <br>
 
-In this project, I covered these topics:
+## In this project, I covered these topics:
  - How to create an HTML page from a wireframe. <br>
  - What is a markup language? <br>
  - What is the DOM? <br>
