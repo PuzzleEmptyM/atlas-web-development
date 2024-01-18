@@ -1,4 +1,4 @@
-<img width="300" alt="Screenshot 2024-01-17 190403" src="https://github.com/PuzzleEmptyM/atlas-web-development/assets/129412985/b1a4c61f-1582-407b-8c61-2ade56bb7c04"><br>
+<img width="350" alt="Screenshot 2024-01-17 190403" src="https://github.com/PuzzleEmptyM/atlas-web-development/assets/129412985/b1a4c61f-1582-407b-8c61-2ade56bb7c04"><br>
 =============================<br>
 # Advanced HTML<br>
 =============================<br>
