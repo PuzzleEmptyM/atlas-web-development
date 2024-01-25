@@ -1,9 +1,16 @@
 /* School Page */
 body {
-  width: 1440px;
   background: #FFF;
   margin: 0px;
 }
+
+.wrapper {
+  width: 100%; /* Full width of the viewport */
+  max-width: 1440px; /* Maximum width you want for your content */
+  margin: 0 auto; /* Auto margin on both sides to center the content */
+  box-sizing: border-box; /* Include padding and borders in width */
+}
+
 /*Header */
 header {
   position: absolute;
