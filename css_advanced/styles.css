@@ -6,7 +6,6 @@ body {
 
 .wrapper {
   width: 100%; /* Full width of the viewport */
-  max-width: 1440px; /* Maximum width you want for your content */
   margin: 0 auto; /* Auto margin on both sides to center the content */
   box-sizing: border-box; /* Include padding and borders in width */
 }
@@ -124,13 +123,14 @@ header {
 
 /* Learn from the pros */
 #pros {
-  margin-top: 100px;
-  width: 1009px;
+  max-width: 1009px;
+  width: 100%;
   height: 237px;
   flex-shrink: 0;
   display: flex;
   flex-direction: column;
-  margin-left: 221.08px;;
+  margin: 0 auto;
+  z-index: 2;
 }
 #pros h2 {
   text-align: center;
@@ -186,7 +186,7 @@ header {
 }
 /* Testimonials */
 #testimony {
-  width: 1440px;
+  width: 100%;
   height: 392px;
   display: flex;
   align-items: center;
@@ -400,7 +400,7 @@ header {
 }
 /* Free membership */
 #membership {
-  width: 1440px;
+  width: 100%;
   height: 502px;
   background-color: #071629;
   display: flex;
@@ -540,7 +540,7 @@ header {
 }
 /* Footer */
 footer {
-  width: 1440px;
+  width: 100%;
   height: 249px;
   flex-shrink: 0;
   background-color: #071629;
