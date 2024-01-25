@@ -1,6 +1,14 @@
 # Atlas Web Development - CSS Advanced
 
 ## Project Overview 📌
+The goal of this project is to design a website by follow a specific template provided for us on Figma. During this project, I had to learn and master: <br>
+- What is CSS <br>
+- How to add style to an element <br>
+- What is a class <br>
+- What is a selector <br>
+- How to compute CSS Specificity Value <br>
+- What are Box properties in CSS <br>
+- How does the browser load a webpage <br>
 
 ## Directory Structure 📚
 
