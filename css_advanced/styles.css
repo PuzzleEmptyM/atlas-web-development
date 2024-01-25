@@ -18,7 +18,8 @@ header {
   justify-content: center;
   align-items: center;
   flex-shrink: 0;
-  left: 175.67px;
+  left: 50%;
+  transform: translateX(-50%);
   top: 40px;
 }
 #header_cont {
@@ -51,14 +52,22 @@ header {
   text-decoration: none;
 }
 
-#main-part {
-  position: relative;
-  z-index: 1;
+.background-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
-  height: 1140px;
-  flex-shrink: 0;
+  height: 100%;
   background: url(images/banner_bgr.png) center/cover no-repeat;
   filter: grayscale(100%);
+  z-index: -1; /* Set z-index lower than content */
+}
+
+#main-part {
+  position: relative;
+  width: 100%;
+  height: 1140px;
+  z-index: 1; /* Higher z-index for content */
 }
 
 #main-part::before {
@@ -130,7 +139,7 @@ header {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  z-index: 2;
+  z-index: 0;
 }
 #pros h2 {
   text-align: center;
