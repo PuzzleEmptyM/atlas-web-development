@@ -11,8 +11,7 @@ atlas-web-development/
 |   | -- index.html
 |   | -- images/
 |   | -- | -- ...
-|   | -- style/
-|   | -- | -- styles.css
+|   | -- styles.css
 ```
 
 ## Header and Banner 📢
