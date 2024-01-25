@@ -18,7 +18,9 @@ atlas-web-development/
 The header section includes a logo and the block of three navigation links. The banner section consists of two blocks: one with a heading, text, and a button, and another with four blocks containing images, headings, and text.
 <br>
 <br>
-<img width="1437" alt="Screen Shot 2024-01-25 at 10 35 14 AM" src="https://github.com/PuzzleEmptyM/atlas-web-development/assets/129412985/b9c96c46-06c6-4fba-83c3-3b403f2697fe">
+|-|
+| <img width="1437" alt="Screen Shot 2024-01-25 at 10 35 14 AM" src="https://github.com/PuzzleEmptyM/atlas-web-development/assets/129412985/b9c96c46-06c6-4fba-83c3-3b403f2697fe"> |
+|-|
 
 ## Quote 🧵
 The quote section features an image, a quote tag, an author quote, and additional text.
